@@ -1,5 +1,5 @@
 function checkAttendance() {
-//sample
+//sample commit
 }
 
 console.log(checkAttendance())
